@@ -1,0 +1,9 @@
+#Mon Mar 26 21:36:20 GMT+08:00 2018
+\!/=
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.formatterprofiles.version=13
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands>\r\n<activeKeyConfiguration keyConfigurationId\="org.eclipse.ui.emacsAcceleratorConfiguration"/>\r\n</org.eclipse.ui.commands>
+/instance/org.eclipse.ui/KEY_CONFIGURATION_ID=org.eclipse.ui.emacsAcceleratorConfiguration
+@org.eclipse.jdt.ui=3.13.51.v20171122-0652
+@org.eclipse.ui=3.109.0.v20170411-1742
+@org.eclipse.ui.workbench=3.110.1.v20170704-1208
+file_export_version=3.0
